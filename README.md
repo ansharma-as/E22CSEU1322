@@ -32,6 +32,7 @@ This application provides a backend microservice that interfaces with social med
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/ansharma-as/E22CSEU1322.git
    cd E22CSEU1322
