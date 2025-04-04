@@ -96,7 +96,7 @@ const Layout = ({ children }) => {
         </motion.div>
       </main>
       
-      <footer className="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-4 absolute bottom-0 w-full">
+      <footer className="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 py-4 fixed bottom-0 w-full">
         <div className="container mx-auto px-4 text-center text-gray-500 dark:text-gray-400 text-sm">
           <p>© 2025 SocialPulse Analytics. All data refreshes in real-time.</p>
         </div>
